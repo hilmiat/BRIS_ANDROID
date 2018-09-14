@@ -17,4 +17,4 @@
 2. What kind of data that should store with database?
 3. Name 3 important part of Room Library
 4. Explain the advantage of using ViewModel
-5. What is 
+5. What Repository
